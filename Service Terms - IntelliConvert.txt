@@ -1,0 +1,50 @@
+TERMOS DE SERVIÇO DO INTELLICONVERT
+
+Última atualização: [13.03.2025]
+
+Bem-vindo ao IntelliConvert! Estes Termos de Serviço ("Termos") regem o uso do bot IntelliConvert no Discord. Ao adicionar o IntelliConvert a um servidor e utilizá-lo, você concorda com estes Termos. Caso não concorde com os Termos, não utilize o bot.
+
+1. Definições
+Para os fins destes Termos:
+
+Bot – Refere-se ao bot IntelliConvert.
+Usuário – Refere-se a qualquer pessoa que use ou interaja com o bot.
+Servidor – Refere-se a qualquer servidor do Discord onde o IntelliConvert é adicionado.
+2. Funcionalidades do IntelliConvert
+O IntelliConvert é um bot desenvolvido para: IntelliComm Informática LTDA
+
+Interagir com a plataforma de Softphone Intellicomm (Convert).
+Gerar e imprimir relatórios em tempo real em canais de texto específicos no Discord.
+Facilitar o acesso a informações da plataforma Intellicomm através de comandos no Discord.
+3. Requisitos e Acesso
+Para acessar as funcionalidades do IntelliConvert, o usuário deve ter as permissões adequadas no servidor.
+O acesso à plataforma Intellicomm é feito através de uma conta master e de uma API autorizada.
+O IntelliConvert só funcionará corretamente se as credenciais de acesso estiverem configuradas de maneira adequada.
+4. Responsabilidades do Usuário
+Ao utilizar o IntelliConvert, o usuário concorda em:
+
+Não utilizar o bot para atividades ilegais ou que violem os Termos de Serviço do Discord.
+Não tentar acessar ou manipular dados de maneira não autorizada.
+Não sobrecarregar o bot com comandos excessivos ou abusivos.
+Não compartilhar informações sensíveis ou confidenciais nos canais de texto do Discord.
+5. Limitação de Responsabilidade
+O IntelliConvert é fornecido "como está", sem garantias de funcionamento contínuo ou livre de erros.
+O desenvolvedor não se responsabiliza por falhas na plataforma Intellicomm, erros nos relatórios ou informações incorretas.
+O desenvolvedor não será responsável por qualquer dano direto ou indireto resultante do uso do IntelliConvert.
+6. Privacidade e Dados
+O IntelliConvert pode processar e armazenar dados fornecidos pela plataforma Intellicomm para gerar relatórios e respostas.
+Nenhuma informação pessoal ou sensível é armazenada ou compartilhada fora do ambiente do Discord.
+Os registros de atividade podem ser mantidos para fins de diagnóstico e melhoria do serviço.
+7. Suspensão e Encerramento
+O desenvolvedor se reserva o direito de suspender ou encerrar o acesso ao IntelliConvert sem aviso prévio em caso de:
+Violação destes Termos.
+Tentativa de comprometimento da segurança do bot ou da plataforma Intellicomm.
+Uso indevido ou abusivo dos comandos e funcionalidades do bot.
+8. Modificações nos Termos
+Estes Termos podem ser atualizados periodicamente para refletir alterações nas funcionalidades do IntelliConvert ou em requisitos legais.
+Os usuários serão notificados de alterações importantes por meio de mensagem no Discord.
+O uso contínuo do IntelliConvert após a atualização dos Termos será considerado como aceitação das mudanças.
+9. Contato
+Para dúvidas, sugestões ou problemas com o IntelliConvert, entre em contato com o desenvolvedor por meio do canal de suporte no Discord.
+
+Ao utilizar o IntelliConvert, você confirma que leu, entendeu e concorda com estes Termos de Serviço.
